@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL Settings
+mysql_root_password: "PDkprayG9964"
+mysql_db: "minkeymajik"
+mysql_user: "superminkey"
+mysql_password: "6jDihgppDRyD"
+
+#HTTP Settings
+http_host: "minkeymajik.com"
+http_conf: "minkeymajik.conf"
+http_port: "80"
